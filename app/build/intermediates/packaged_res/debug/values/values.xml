@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="red_dark">#FFB71C1C</color>
+    <color name="red_primary">#FFD32F2F</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">番茄钟</string>
+    <style name="Theme.Pomodoro" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#FFD32F2F</item>
+        <item name="android:navigationBarColor">#00000000</item>
+    </style>
+</resources>

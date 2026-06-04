@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Pomodoro" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#FFD32F2F</item>
+        <item name="android:navigationBarColor">#00000000</item>
+    </style>
+</resources>
